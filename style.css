@@ -1,0 +1,303 @@
+body
+{
+    margin: 0px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #000;
+}
+.topbar
+{
+    background-color: rgb(67, 67, 247);
+    width: 100%;
+    height: 45px;
+}
+.ctopbar
+{
+    width: 50%;
+    float: left;
+
+}
+.ctopbar ul
+{
+    margin: 0px;
+    padding-top: 13px;
+}
+a
+{
+    text-decoration: none;
+}
+.ctopbar ul li
+{
+    display: inline;
+    padding: 5px 40px 5px 40px;
+}
+.ctopbar ul li a
+{
+   color:#fff ;
+}
+.ctopbar button
+{
+    float: right;
+    background-color: rgb(242, 176, 54);
+    padding: 12px 20px 12px 20px;
+    margin-right: 10em;
+
+}
+.navbar
+{
+    width: 100%;
+    height: 80px;
+}
+.logo
+{
+    width: 30%;
+    float: left;
+    
+}
+.navigation
+{
+    width: 70%;
+    float: left;
+}
+.navigation ul li
+{
+    display: inline;
+    padding: 15px 60px 20px 60px;
+    float: right;
+}
+.bennar img
+{
+    width: 100%;
+
+}
+h1
+{
+    text-align: center;
+    text-decoration: underline;
+}
+p
+{
+    text-align: justify;
+    margin: 20px 40px 20px 40px;
+}
+.services
+{
+    background-color: #f4d6d6;
+    width: 100%;
+    height: 750px;
+}
+.ind_services
+{
+    width: 23%;
+    float: left;
+    margin-left: 20px;
+}
+
+.services img 
+{
+    max-width: 100%;
+    border: 3px solid red;
+}
+.ind_services figcaption
+{
+    text-align: center;
+    padding: 5px 0px;
+}
+.services figure
+{
+    background-color: #fff;
+}
+.whychose
+{
+   background-color:rgb(169, 246, 246);
+    width: 100%;
+    height: 340px;
+    margin-top: -20px;
+}
+h2
+{
+    text-align: center;
+    text-decoration: underline;
+    
+}
+.whychosepart
+{
+    width: 50%;
+    float: left;
+    
+}
+.p-30
+{
+    padding: 10px;
+}
+.whychosepart p 
+{
+    line-height: 25px;
+    margin: -10px 10px -5px 0px;
+    
+
+}
+.weoffer
+{
+    background-color: #f9bbbb;
+     width: 100%;
+    height: 400px;
+    margin-top: -30px;
+   
+}
+.weofferpart
+{
+    width: 33.3%;
+    float: left;
+}
+.weofferpart img
+{
+    width: 150px;
+    height: 150px; 
+    border-radius: 50%;
+    padding: 100px;
+    margin-left: 160px;
+    margin-top: -60px;
+}
+.weofferpart h4
+{
+    text-align: center;
+    margin-top: -90px;
+}
+.weofferpart button
+{
+    margin-left: 260px;
+    padding: 5px 5px 5px 5px;
+    background-color: rgb(128, 8, 239);
+    color: #fff;
+}
+.weofferpart p
+{
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
+}
+.section
+{
+    background-color: #2e2c2c;
+    color: #fff;
+    width: 100%;
+    height: 300px;
+    margin-top: -30px;
+}
+.sectiondiv
+{
+    background-color: rgb(238, 130, 53);
+    color: #fff;
+    width: 40%;
+    float: left;
+    padding: 10px 10px 10px 10px ;
+    margin-left: 100px;
+    padding: 30px 30px 30px 30px;
+    margin-top: 20px;
+}
+.head1
+{
+    background-color: #fff;
+    width: 100px;
+    height: 40px;
+    color: #000;
+    margin-top: -80px;
+    text-align: center;
+    float: left;
+    margin-left: 670px;
+    text-align: justify;
+
+}
+.head2
+{
+    background-color: #fff;
+    width: 100px;
+    height: 40px;
+    color: #000;
+    margin-top: -80px;
+    text-align: center;
+    float: right;
+    margin-right: 150px;
+    text-align: justify;
+
+}
+.contact
+{
+    background-color: rgb(247, 145, 1);
+    width: 100%;
+    height: 200px;
+    margin-top: 20px;
+}
+.conatactdi
+{
+    width: 40%;
+    float: left;
+}
+.conatactdiv
+{
+    width: 30%;
+    float: left;
+}
+.conatactdiv p
+{
+    text-align: center;
+    font-size: 30px;
+    text-align: justify;
+}
+.conatactdiv button
+{
+    padding:10px 20px;
+    margin-top: 60px;
+    margin-left: 100px;
+    background-color: orange;
+    text-decoration: underline solid white;
+}
+.conatactdi img 
+{
+    margin-top: -70px;
+    margin-left: 15em;
+}
+.number
+{
+    background-color: #434242;
+    width: 100%;
+    height: 400px;
+    margin-top: 30px;
+}
+.numbers
+{
+    width: 20%;
+    float: left;
+    color: #fff;
+    line-height: 35px;
+    margin: 20px 10px 10px 85px;
+}
+.style
+{
+    color: rgb(242, 180, 9);
+}
+.numbers h5
+{
+ text-align: center;
+ text-decoration: underline solid red;
+}
+.bottomfooter
+{
+    background-color: rgb(2, 2, 131);
+    width: 100%;
+    height: 40px;
+    margin-top: -30px;
+    color: #fff;
+}
+.bottomfooter a
+{
+    color: orange;
+}
+.bottomfooter p
+{
+    text-align: right;
+    padding-right: 150px;
+    padding-top: 5px;
+}
+
+
